@@ -21,5 +21,5 @@ github username and then push the code to this repo.
     git clone git@github.com:simon/Seven-languages-in-seven-weeks.git
     cd Seven-languages-in-seven-weeks
     git checkout -b USERNAME
-    git branch -t origin/simon
-    git push origin simon 
+    git branch -t origin/USERNAME
+    git push origin USERNAME
