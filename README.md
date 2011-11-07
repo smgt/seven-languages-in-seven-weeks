@@ -18,7 +18,7 @@ How to create code
 The idea is to clone this code, create a new branch named after your
 github username and then push the code to this repo.
 
-  git clone git@github.com:simon/Seven-languages-in-seven-weeks.git
-  cd Seven-languages-in-seven-weeks
-  git checkout -b USERNAME
+    git clone git@github.com:simon/Seven-languages-in-seven-weeks.git
+    cd Seven-languages-in-seven-weeks
+    git checkout -b USERNAME
   
