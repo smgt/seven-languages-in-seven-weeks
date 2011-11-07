@@ -12,10 +12,10 @@ Participants:
 [voxpelli](http://github.com/voxpelli)  
 [qnrq](http://github.com/qnrq)
 
-How to create code
-------------------
+How add your code
+-------------------
 
-The idea is to clone this code, create a new branch named after your
+Clone this repository, create a new branch named after your
 github username and then push the code to this repo.
 
     git clone git@github.com:simon/Seven-languages-in-seven-weeks.git
@@ -23,3 +23,5 @@ github username and then push the code to this repo.
     git checkout -b USERNAME
     git branch -t origin/USERNAME
     git push origin USERNAME
+
+Any questions are directed to @simon
