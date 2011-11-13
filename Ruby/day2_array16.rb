@@ -9,13 +9,12 @@ puts "Using each:"
 
 i = 0
 keys = []
-(1..16).to_a.each do |a|
+(1..16).each_with_index do |a,i|
   keys.push(a)
   if i%4 == 3
     puts keys.inspect
     keys = []
   end
-  i = i + 1
 end
 
 # Using each_slice
